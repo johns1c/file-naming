@@ -45,4 +45,12 @@ collection of utilities includes ones to list NTFS streams.
 
 https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
 
+* reference 4.
+  
 https://learn.microsoft.com/en-us/windows/win32/fileio/file-systems
+
+* reference 5.
+
+  Microsoft's C++ Universal C Runtime Libarary (UCRT).  File handling includes ```_fullpath``` and ```_makepath```
+
+  https://learn.microsoft.com/en-us/cpp/c-runtime-library/file-handling?view=msvc-170#file-handling-routines-path-or-filename
